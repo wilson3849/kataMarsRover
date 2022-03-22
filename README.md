@@ -48,4 +48,3 @@ Base on the elementary operation, the testing data will designed into scenerios:
 - Map can extend the availablity on move in specific location
 - Can add addition module into main on parameter such as wind/speed in kataDrive 
   Module  
-
