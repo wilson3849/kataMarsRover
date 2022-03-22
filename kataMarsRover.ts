@@ -1,4 +1,4 @@
-import {navMap, roverMap} from './roverMap'
+gitimport {navMap, roverMap} from './roverMap'
 import {direction, navPos, roverLocator} from './roverLocator'
 import {moveType, movement, roverCommandPath} from './roverCommander'
 import {roverDrive} from './roverDrive'
